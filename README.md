@@ -12,7 +12,7 @@ Such ML Systems can help Bank to take precautionary steps to ensure the customer
 
   https://github.com/alnxha7/Customer_churn_prediction_using_Tensorflow/blob/main/WA_Fn-UseC_-Telco-Customer-Churn.csv
   
-  ### The data set includes information about:
+### The data set includes information about:
 * Customers who left within the last month – the column is called Churn
 * Services that each customer has signed up for – phone, multiple lines, internet, online security, online backup, device protection, tech support, and streaming TV and movies
 * Customer account information – how long they’ve been a customer, contract, payment method, paperless billing, monthly charges, and total charges
@@ -25,7 +25,7 @@ Such ML Systems can help Bank to take precautionary steps to ensure the customer
   classification.
 * The model is trained with binary cross-entropy loss and optimized with Adam.
 
- ## Results and Analysis
+## Results and Analysis
 * The model achieved an accuracy of 79 % and an F1-score of 0.85 on the test set.
 * Important features included contract type, monthly charges, and tenure.
 * The notebooks/ directory contains additional analysis and visualizations.
